@@ -1,4 +1,4 @@
-[![travis](https://travis-ci.org/d-cameron/biodemo.svg?branch=master)](https://travis-ci.org/d-cameron/biodemo)
+[![travis](https://travis-ci.org/trickytank/biodemo-1.svg?branch=master)](https://travis-ci.org/trickytank/biodemo-1)
 
 # Overview 
 
